@@ -9,7 +9,7 @@ This python scripts for Sequence Pattern Matching (SPM) alignment was written by
 ### 1. Clone this repository into local
 
 ```bash
-git clone https://github.com/YanLab-Westlake/PeptideSearch.git
+git clone https://github.com/YanLab-Westlake/SPM.git
 ```
 
 ### 2. Running the tests script
