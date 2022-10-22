@@ -20,5 +20,9 @@ bash tests/tests_peptidesearch.sh
 
 ### 3. Running the search with your own data
 ```bash
-python scripts/peptidesearch_for_release.py -q {One-Letter Sequence} -d {Path-to-Library} -o {Path-to-Output}
+python scripts/peptidesearch_for_release.py -q {One-Letter-Sequence} -d {Path-to-Library} -o {Path-to-Output}
 ```
+
+## Cite us
+If you use this software, please cite the following paper:
+
