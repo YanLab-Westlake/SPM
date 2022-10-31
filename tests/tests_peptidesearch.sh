@@ -19,7 +19,7 @@ then
     exit 1
 fi
 
-if grep -Fxq $test_result_1 output/test1_ranked.txt
+if grep -Fq $test_result_1 output/test1_ranked.txt
 then
     echo "Test 1 passed."
 else
@@ -38,7 +38,7 @@ then
     exit 1
 fi
 
-if grep -Fxq $test_result_2 output/test2_ranked.txt
+if grep -Fq $test_result_2 output/test2_ranked.txt
 then
     echo "Test 2 passed."
 else
@@ -57,7 +57,7 @@ then
     exit 1
 fi
 
-if grep -Fxq $test_result_3 output/test3_ranked.txt
+if grep -Fq $test_result_3 output/test3_ranked.txt
 then
     echo "Test 3 passed."
 else
