@@ -19,7 +19,7 @@ git clone https://github.com/YanLab-Westlake/SPM.git
 # 2. Running the test example (optional)
 ```bash
 cd SPM-main
-bash test/SPM_test.sh
+bash tests/SPM_test.sh
 ```
 
 # 3. Running the search with your own data
