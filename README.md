@@ -2,9 +2,9 @@
 ### Introduction
 This python scripts for Sequence Pattern Matching (SPM) alignment was written by WuLab & YanLab, School of Life Science, Westlake University.
 
-It can help you search target protein sequence with your input peptides sequence from your given sequence database. 
+It can help you search target protein sequence with your input peptide sequence from a given sequence database. 
 
-Input are a peptide sequence and a protein sequence database for searching. Output is a ranking protein list, each with a score and matching postion.
+Inputs are a peptide sequence and a protein sequence database for searching. Output is a ranking protein list, each with a score and matching postion.
  
 The most possible searching candidate is at the top of the output file with the lowest score. 
 
