@@ -24,7 +24,7 @@ bash test/SPM_test.sh
 
 # 3. Running the search with your own data
 ```bash
-python scripts/peptidesearch_for_release.py -q {One-Letter-Sequence} -d {Search-Sequence-Library} -o {Output_name}
+python scripts/SequencePatternMatching.py -q {One-Letter-Sequence} -d {Search-Sequence-Library} -o {Output_name}
 ```
 
 ### Cite us
