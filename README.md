@@ -18,7 +18,7 @@ git clone https://github.com/YanLab-Westlake/SPM.git
 
 # 2. Running the test example (optional)
 ```bash
-cd SPM-main
+cd SPM
 bash tests/SPM_test.sh
 ```
 
