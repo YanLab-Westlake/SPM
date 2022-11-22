@@ -1,6 +1,6 @@
 ### SPM
 ### Introduction
-This python scripts for Sequence Pattern Matching (SPM) alignment was written by WuLab & YanLab, School of Life Sciences, Westlake University.
+This python script of Sequence Pattern Matching (SPM) alignment was written by WuLab & YanLab, School of Life Sciences, Westlake University.
 
 It can help you search target proteins against a cryo-EM map from a given sequence database. 
 
