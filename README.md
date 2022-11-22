@@ -1,12 +1,10 @@
 ### SPM
 ### Introduction
-This python scripts for Sequence Pattern Matching (SPM) alignment was written by WuLab & YanLab, School of Life Science, Westlake University.
+This python scripts for Sequence Pattern Matching (SPM) alignment was written by WuLab & YanLab, School of Life Sciences, Westlake University.
 
-It can help you search target protein sequence with your input peptide sequence from a given sequence database. 
+It can help you search target proteins against a cryo-EM map from a given sequence database. 
 
-Inputs are a peptide sequence and a protein sequence database for searching. Output is a ranking protein list, each with a score and matching postion.
- 
-The most possible searching candidate is at the top of the output file with the lowest score. 
+Inputs are a query peptide sequence and a protein database for searching. Output is a ranking protein list, each with a score and best matching postion. The most possible candidate is at the top of the output file.
 
 ### Usage
 
@@ -29,4 +27,5 @@ python scripts/SequencePatternMatching.py -q {One-Letter-Sequence} -d {Search-Se
 
 ### Cite us
 If you use this software, please cite the following paper:
+Jin et al., Structure of a TOC-TIC supercomplex spanning two chloroplast envelope membranes, Cell (2022), https://doi.org/10.1016/j.cell.2022.10.030
 
