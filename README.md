@@ -26,6 +26,6 @@ python scripts/SequencePatternMatching.py -q {One-Letter-Sequence} -d {Search-Se
 ```
 
 ### Cite us
-If you use this software, please cite the following paper:
+If you use this script, please cite the following paper:
 Jin et al., Structure of a TOC-TIC supercomplex spanning two chloroplast envelope membranes, Cell (2022), https://doi.org/10.1016/j.cell.2022.10.030
 
